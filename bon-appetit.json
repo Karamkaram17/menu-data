@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Sambousik",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 5
+  },
+  {
+    "name": "Kabkoub Lahme",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 6
+  },
+  {
+    "name": "Kabkoub Labniyeh",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 4
+  },
+  {
+    "name": "Kabkoub bel jeben",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 6
+  },
+  {
+    "name": "Re2a2at Jebne",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 5
+  },
+  {
+    "name": "Re2a2at Sojo2",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 5
+  },
+  {
+    "name": "Re2a2at Fajita",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 6
+  },
+  {
+    "name": "Pizza",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 6
+  },
+  {
+    "name": "Hot Dog",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 6
+  },
+  {
+    "name": "Lahem 3ajin",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 5
+  },
+  {
+    "name": "Lahem 3ajin Special",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 6
+  },
+  {
+    "name": "Spring Rolls",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 4
+  },
+  {
+    "name": "Ftayer Keshek",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 4
+  },
+  {
+    "name": "Ftayer Sbenegh",
+    "category": "Starters",
+    "unit": "Dozen",
+    "price": 4
+  },
+  {
+    "name": "Crabe Salade",
+    "category": "Salade",
+    "unit": "4 Pers",
+    "price": 15
+  },
+  {
+    "name": "Greek Salade",
+    "category": "Salade",
+    "unit": "4 Pers",
+    "price": 15
+  },
+  {
+    "name": "Pasta Salade",
+    "category": "Salade",
+    "unit": "4 Pers",
+    "price": 15
+  },
+  {
+    "name": "Tabbouleh",
+    "category": "Salade",
+    "unit": "4 Pers",
+    "price": 10
+  },
+  {
+    "name": "Fattoush",
+    "category": "Salade",
+    "unit": "4 Pers",
+    "price": 10
+  },
+  {
+    "name": "Kebbe Mamdoude",
+    "category": "Kebbe",
+    "unit": "kg",
+    "price": 10
+  },
+  {
+    "name": "Kebbe Ma3 Basal w Loz",
+    "category": "Kebbe",
+    "unit": "kg",
+    "price": 11
+  },
+  {
+    "name": "Eres kebbe Shahem",
+    "category": "Kebbe",
+    "unit": "pc",
+    "price": 2.5
+  },
+  {
+    "name": "Eres kebbe Lahem",
+    "category": "Kebbe",
+    "unit": "pc",
+    "price": 3
+  },
+  {
+    "name": "Salsa Harra",
+    "category": "Kebbe",
+    "unit": "kg",
+    "price": 3
+  },
+  {
+    "name": "Wara2 3enab Zet",
+    "category": "Main Dishes",
+    "unit": "kg",
+    "price": 7
+  },
+  {
+    "name": "Wara2 3enab Lahme",
+    "category": "Main Dishes",
+    "unit": "kg",
+    "price": 10
+  },
+  {
+    "name": "Kroket",
+    "category": "Main Dishes",
+    "unit": "kg",
+    "price": 10
+  },
+  {
+    "name": "Bajaxy",
+    "category": "Main Dishes",
+    "unit": "kg",
+    "price": 13
+  },
+  {
+    "name": "Crispy",
+    "category": "Main Dishes",
+    "unit": "kg",
+    "price": 10
+  },
+  {
+    "name": "Escalope",
+    "category": "Main Dishes",
+    "unit": "kg",
+    "price": 11
+  },
+  {
+    "name": "Fajita",
+    "category": "Main Dishes",
+    "unit": "kg",
+    "price": 10
+  },
+  {
+    "name": "Mahshe Sele2",
+    "category": "Main Dishes",
+    "unit": "kg",
+    "price": 4
+  },
+  {
+    "name": "Mahshe Malfouf",
+    "category": "Main Dishes",
+    "unit": "kg",
+    "price": 7
+  },
+  {
+    "name": "Shishbarak",
+    "category": "Main Dishes",
+    "unit": "100 pc",
+    "price": 4
+  },
+  {
+    "name": "Shishbarak Kbir",
+    "category": "Main Dishes",
+    "unit": "100 pc",
+    "price": 4.5
+  },
+  {
+    "name": "Gateau",
+    "category": "Dessert",
+    "unit": "unit",
+    "price": 8
+  },
+  {
+    "name": "Gateau Ananas",
+    "category": "Dessert",
+    "unit": "unit",
+    "price": 10
+  },
+  {
+    "name": "Petit Four",
+    "category": "Dessert",
+    "unit": "kg",
+    "price": 8
+  },
+  {
+    "name": "Ka3k L 3arous",
+    "category": "Dessert",
+    "unit": "kg",
+    "price": 7
+  },
+  {
+    "name": "3waymet",
+    "category": "Dessert",
+    "unit": "kg",
+    "price": 7
+  },
+  {
+    "name": "Ma3moul Joz",
+    "category": "Dessert",
+    "unit": "kg",
+    "price": 10
+  },
+  {
+    "name": "Ma3moul Tamer",
+    "category": "Dessert",
+    "unit": "kg",
+    "price": 8
+  },
+  {
+    "name": "Ma3moul Festok",
+    "category": "Dessert",
+    "unit": "kg",
+    "price": 12
+  },
+  {
+    "name": "Ma3kroun Sekar",
+    "category": "Dessert",
+    "unit": "kg",
+    "price": 6
+  },
+  {
+    "name": "Ma3kroun B Joz",
+    "category": "Dessert",
+    "unit": "kg",
+    "price": 8
+  },
+  {
+    "name": "Sauce",
+    "category": "Options",
+    "unit": "1L",
+    "price": 5
+  },
+  {
+    "name": "Fried/Cooked",
+    "category": "Options",
+    "unit": "unit",
+    "price": 0.5
+  },
+  {
+    "name": "Delivery",
+    "category": "Options",
+    "unit": "",
+    "price": 3
+  }
+]
