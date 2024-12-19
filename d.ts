@@ -36,7 +36,7 @@ const data = {
       "bgImg": "./images/sandwiches.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.902Z",
-      "updatedAt": "2024-12-11T23:54:40.902Z",
+      "updatedAt": "2024-12-18T17:05:34.637Z",
       "__v": 0
     },
     {
